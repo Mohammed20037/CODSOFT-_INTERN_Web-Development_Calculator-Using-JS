@@ -44,7 +44,7 @@ The project consists of three main files:
 
 ## Project Preview
 
-(![website](https://github.com/Mohammed20037/CODSOFT-_INTERN_Web-Development_Calculator-Using-JS/assets/113844625/69fdb816-f9d9-49da-87eb-758faca02856))
+![website](https://github.com/Mohammed20037/CODSOFT-_INTERN_Web-Development_Calculator-Using-JS/assets/113844625/69fdb816-f9d9-49da-87eb-758faca02856)
 
 ## Contributing
 
@@ -53,8 +53,4 @@ Contributions are welcome! If you'd like to contribute to this project or have s
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 *Thank you for your interest in the Calculator Using JS project and for being a part of my Codsoft internship journey!*
-```
