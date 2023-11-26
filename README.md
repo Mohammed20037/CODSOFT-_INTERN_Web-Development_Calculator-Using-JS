@@ -43,8 +43,8 @@ The project consists of three main files:
 3. Use the buttons to perform calculations.
 
 ## Project Preview
+![image](https://github.com/Mohammed20037/CODSOFT-_INTERN_Web-Development_Calculator-Using-JS/assets/113844625/50383f08-b185-43f7-aabf-243b80e58efd)
 
-![website](https://github.com/Mohammed20037/CODSOFT-_INTERN_Web-Development_Calculator-Using-JS/assets/113844625/69fdb816-f9d9-49da-87eb-758faca02856)
 
 ## Contributing
 
