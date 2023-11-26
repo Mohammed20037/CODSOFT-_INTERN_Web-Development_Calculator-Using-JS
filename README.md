@@ -44,7 +44,7 @@ The project consists of three main files:
 
 ## Project Preview
 
-![Calculator Preview](![website](https://github.com/Mohammed20037/CODSOFT-_INTERN_Web-Development_Calculator-Using-JS/assets/113844625/69fdb816-f9d9-49da-87eb-758faca02856))
+(![website](https://github.com/Mohammed20037/CODSOFT-_INTERN_Web-Development_Calculator-Using-JS/assets/113844625/69fdb816-f9d9-49da-87eb-758faca02856))
 
 ## Contributing
 
